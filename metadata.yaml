@@ -14,6 +14,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/l#a36873
     - http://www.english.eku.edu/services/kylit/buck.htm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17141#Destiny
 gutenberg_issued: '2005-11-23'
 gutenberg_type: Text
 identifiers:
