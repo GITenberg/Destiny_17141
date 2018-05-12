@@ -1,0 +1,29 @@
+_repo: Destiny_17141
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Buck, Charles Neville
+    birthdate: 1879
+    deathdate: 1930
+    gutenberg_agent_id: '2520'
+    url: http://www.gutenberg.org/2009/agents/2520
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/l#a36873
+    - http://www.english.eku.edu/services/kylit/buck.htm
+description: ''
+gutenberg_issued: '2005-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17141'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+title: Destiny
+url: http://www.gutenberg.org/ebooks/17141
